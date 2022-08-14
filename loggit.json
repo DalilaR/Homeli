@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": "2019-01-30 16:57:11",
+    "log_lvl": "INFO",
+    "log_msg": "Initial log",
+    "log_detail": ""
+  },
+  {
+    "timestamp": "2019-01-30 16:57:11",
+    "log_lvl": "ERROR",
+    "log_msg": "Error in filter_impl(.data, quo): Result must have length 1, not 0\n",
+    "log_detail": ""
+  }
+]
